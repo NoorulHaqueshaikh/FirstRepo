@@ -1,1 +1,1 @@
-# FirstRepo hey this first Reposetory
+# FirstRepo hey this is first Repository
